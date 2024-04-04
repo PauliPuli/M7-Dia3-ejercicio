@@ -1,8 +1,8 @@
 import pool from "../config/db-usuarios.js"; 
 
 // const id= 123
-// const email = "' OR '' = '";//malicioso
-const email = "ben.torres@example.com"; 
+const email = "' OR '' = '";//malicioso
+// const email = "ben.torres@example.com"; 
 
 //Consulta normal
 // const email = "' OR '' = '"; //me quiere matar D:
